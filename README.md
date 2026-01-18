@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello there 👋
 
 I'm Sharon, a Computer Science student at Northwestern University and a Software Engineer. 
 - 🔭 I'm currently working on my website (see below)
@@ -6,6 +6,7 @@ I'm Sharon, a Computer Science student at Northwestern University and a Software
 - 💬 Lets collaborate and work on cool projects together!
 - 🌱 I love trying new things, being in nature, and chasing my passions
 
+<!--
 ------------------------------------------------------------------------------------------------
 
 ### 📫 Connect and Reach Out:
@@ -13,7 +14,6 @@ I'm Sharon, a Computer Science student at Northwestern University and a Software
 - Linkedin: www.linkedin.com/in/zsharon012/
 - Website: [zsharon.vercel.app](https://zsharon.vercel.app/)
 
-<!--
 **zsharon012/zsharon012** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
