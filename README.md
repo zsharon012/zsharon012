@@ -1,7 +1,7 @@
 ## Hello there 👋
 
 I'm Sharon, a Computer Science student at Northwestern University and a Software Engineer. 
-- 🔭 I'm currently working on my website (see below)
+- 🔭 I'm currently working on my website
 - 🤔 I use React, JavaScript, Python, C, and C++
 - 💬 Lets collaborate and work on cool projects together!
 - 🌱 I love trying new things, being in nature, and chasing my passions
